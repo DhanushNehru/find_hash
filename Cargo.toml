@@ -2,6 +2,14 @@
 name = "find_hash"
 version = "0.1.0"
 edition = "2021"
+description = "A high-performance, offline hash type identification tool."
+license = "GPL-3.0"
+repository = "https://github.com/yourusername/find_hash"
+homepage = "https://github.com/yourusername/find_hash"
+documentation = "https://docs.rs/find_hash"
+readme = "README.md"
+keywords = ["hash", "security", "cli", "identification", "cracker"]
+categories = ["command-line-utilities", "cryptography"]
 
 [dependencies]
 clap = { version = "=4.0.32", features = ["derive"] }
