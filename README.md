@@ -46,6 +46,15 @@ If you want to use the `find_hash` command globally (without `cargo run`), insta
 cargo install --path .
 ```
 
+(or)
+
+
+Cargo installs automatically with the toolchain, but for explicit setup:
+
+```bash
+cargo install find_hash
+```
+
 Then you can use:
 
 ```bash
