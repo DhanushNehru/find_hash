@@ -1,5 +1,4 @@
-//! This file is auto-generated
-//! Do not edit manually.
+// Generated this based on predefined conditions
 
 use crate::hash_info::{HashInfo, Prototype};
 use regex::Regex;
